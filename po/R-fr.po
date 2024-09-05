@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: safetensors 0.1.2.9000\n"
 "POT-Creation-Date: 2024-09-05 23:57+0200\n"
-"PO-Revision-Date: 2024-09-06 00:02+0200\n"
+"PO-Revision-Date: 2024-09-06 00:13+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -29,7 +29,7 @@ msgstr "pour le chargement des tenseurs torch."
 
 #: write.R:25
 msgid "Duplicated names are not allowed in {.arg tensors}"
-msgstr "Les noms dupliqués ne sont pas autorisés dans les tenseurs {.arg}"
+msgstr "Les noms dupliqués ne sont pas autorisés dans la liste {.arg tensors}"
 
 #: write.R:121
 msgid "Unsupported data type {.val {x}}"

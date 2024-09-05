@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: safetensors 0.1.2.9000\n"
-"POT-Creation-Date: 2024-09-05 23:44+0200\n"
+"POT-Creation-Date: 2024-09-05 23:57+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,6 +20,10 @@ msgstr ""
 
 #: safetensors.R:169
 msgid "Unsupported framework {.val {x}}"
+msgstr ""
+
+#: safetensors.R:172
+msgid "for loading torch tensors."
 msgstr ""
 
 #: write.R:25

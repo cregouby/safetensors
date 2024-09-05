@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: safetensors 0.1.2.9000\n"
-"POT-Creation-Date: 2024-09-05 23:44+0200\n"
-"PO-Revision-Date: 2024-09-05 23:48+0200\n"
+"POT-Creation-Date: 2024-09-05 23:57+0200\n"
+"PO-Revision-Date: 2024-09-06 00:02+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: safetensors.R:122
 msgid "Unsupported framework {.val {.self$framework}}"
-msgstr "Cadre non pris en charge {.val {.self$framework}}"
+msgstr "Framework non pris en charge {.val {.self$framework}}"
 
 #: safetensors.R:163
 msgid "Unsupported dtype {.val {x}}"
@@ -21,11 +21,15 @@ msgstr "Type de données non pris en charge {.val {x}}"
 
 #: safetensors.R:169
 msgid "Unsupported framework {.val {x}}"
-msgstr "Cadre non pris en charge {.val {x}}"
+msgstr "Framework non pris en charge {.val {x}}"
+
+#: safetensors.R:172
+msgid "for loading torch tensors."
+msgstr "pour le chargement des tenseurs torch."
 
 #: write.R:25
 msgid "Duplicated names are not allowed in {.arg tensors}"
-msgstr "Les noms en double ne sont pas autorisés dans les tenseurs {.arg}"
+msgstr "Les noms dupliqués ne sont pas autorisés dans les tenseurs {.arg}"
 
 #: write.R:121
 msgid "Unsupported data type {.val {x}}"
@@ -45,4 +49,4 @@ msgstr "{.arg metadata} doit être une liste nommée."
 
 #: write.R:158
 msgid "{.arg metadata} must be a named list of scalar characters."
-msgstr "{.arg metadata} doit être une liste nommée de caractères scalaires."
+msgstr "{.arg metadata} doit être une liste nommée d'une seule chaîne de caractères."
